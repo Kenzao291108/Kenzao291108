@@ -16,7 +16,7 @@ jobs:
       - name: generate pixel profile cards
         uses: LuciNyan/pixel-profile/action@main
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.PIXEL_TOKEN }}
           outputs: |
             dist/journey?username=Kenzao291108&theme=journey&dithering=true
             dist/summer?username=Kenzao291108&theme=summer
