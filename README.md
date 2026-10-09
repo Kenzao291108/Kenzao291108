@@ -1,18 +1,14 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/Kenzao291108/Kenzao291108/main/assets/banner.png" alt="Kenzao pixel farm" width="100%"/>
+</div>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3F97F7&center=true&vCenter=true&width=560&lines=Hi+there%2C+I'm+Kenzao+%F0%9F%91%8B;Dzulfikar+Ibnu+Ilham+Pangestu;Machine+Learning+%26+Web+Developer;Always+building+something+cool" alt="Typing SVG" />
-
-<br/>
-
-<a href="mailto:ibnuilham265@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&weight=400&size=30&pause=1000&color=F4A93C&center=true&vCenter=true&width=620&lines=%F0%9F%8C%B1+Welcome+to+my+farm!;Dzulfikar+Ibnu+Ilham+Pangestu;Machine+Learning+%26+Web+Developer;Building+cool+things,+one+pixel+at+a+time" alt="Typing SVG"/>
 </div>
 
 <br/>
 
-### 🧑‍💻 About Me
+<div align="center"><img src="https://raw.githubusercontent.com/Kenzao291108/Kenzao291108/main/assets/h-about.png" alt="About Me"/></div>
 
 ```yaml
 name:      Dzulfikar Ibnu Ilham Pangestu
@@ -22,7 +18,13 @@ school:    SMK Negeri 2 Klaten
 focus:     Machine Learning · Web Development · AI Agents
 ```
 
-### 🛠️ Tech Stack
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Kenzao291108/Kenzao291108/main/assets/farmer.png" alt="farmer Kenzao"/>
+</div>
+
+<div align="center"><img src="https://raw.githubusercontent.com/Kenzao291108/Kenzao291108/main/assets/divider.png" width="100%"/></div>
+
+<div align="center"><img src="https://raw.githubusercontent.com/Kenzao291108/Kenzao291108/main/assets/h-tech.png" alt="Tech Stack"/></div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
@@ -38,7 +40,9 @@ focus:     Machine Learning · Web Development · AI Agents
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </div>
 
-### 🚀 Featured Projects
+<div align="center"><img src="https://raw.githubusercontent.com/Kenzao291108/Kenzao291108/main/assets/divider.png" width="100%"/></div>
+
+<div align="center"><img src="https://raw.githubusercontent.com/Kenzao291108/Kenzao291108/main/assets/h-projects.png" alt="Projects"/></div>
 
 | Project | What it is |
 |---|---|
@@ -49,35 +53,44 @@ focus:     Machine Learning · Web Development · AI Agents
 | [Clustering & Classification](https://github.com/Kenzao291108/machine-learning_clustering_classification) | K-Means + PCA clustering and Decision Tree / Random Forest classification |
 | [Image-Classification](https://github.com/Kenzao291108/Image-Classification-Cat-Dog-Snakes-) | Cat, dog & snake image classification model |
 
-### 📊 GitHub Stats
+<div align="center"><img src="https://raw.githubusercontent.com/Kenzao291108/Kenzao291108/main/assets/divider.png" width="100%"/></div>
+
+<div align="center"><img src="https://raw.githubusercontent.com/Kenzao291108/Kenzao291108/main/assets/h-stats.png" alt="Stats"/></div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kenzao291108&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenzao291108&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kenzao291108&show_icons=true&hide_border=false&border_color=8A5A2B&border_radius=0&bg_color=2B1D14&title_color=FFCC4D&text_color=E8D5A9&icon_color=7CC576" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenzao291108&layout=compact&hide_border=false&border_color=8A5A2B&border_radius=0&bg_color=2B1D14&title_color=FFCC4D&text_color=E8D5A9" alt="Top Languages" height="180"/>
   <br/>
-  <img src="https://streak-stats.demolab.com?user=Kenzao291108&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kenzao291108&theme=react-dark&hide_border=true&bg_color=0D1117&area=true" alt="Activity Graph"/>
+  <img src="https://streak-stats.demolab.com?user=Kenzao291108&hide_border=false&border=8A5A2B&border_radius=0&background=2B1D14&stroke=8A5A2B&ring=F4A93C&fire=D94F4F&currStreakNum=FFCC4D&currStreakLabel=F4A93C&sideNums=E8D5A9&sideLabels=E8D5A9&dates=8A5A2B" alt="GitHub Streak"/>
 </div>
 
-### 🐍 Contribution Snake
+### 🌾 3D Contribution Farm
+
+<div align="center">
+  <img src="https://github.com/Kenzao291108/Kenzao291108/raw/main/profile-3d-contrib/profile-gitblock.svg" alt="3D contribution blocks"/>
+</div>
+
+<div align="center"><img src="https://raw.githubusercontent.com/Kenzao291108/Kenzao291108/main/assets/divider.png" width="100%"/></div>
+
+<div align="center"><img src="https://raw.githubusercontent.com/Kenzao291108/Kenzao291108/main/assets/h-snake.png" alt="Snake"/></div>
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kenzao291108/Kenzao291108/blob/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kenzao291108/Kenzao291108/blob/output/github-contribution-grid-snake.svg">
-    <img alt="Snake animation" src="https://github.com/Kenzao291108/Kenzao291108/blob/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution Snake" src="https://github.com/Kenzao291108/Kenzao291108/blob/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
-<br/>
+<div align="center"><img src="https://raw.githubusercontent.com/Kenzao291108/Kenzao291108/main/assets/divider.png" width="100%"/></div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kenzao291108&label=Profile%20views&color=3F97F7&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Kenzao291108&label=VISITORS&color=F4A93C&style=for-the-badge" alt="Visitors"/>
+  <a href="mailto:ibnuilham265@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
 
 <div align="center">
 
-  ### 💬 *"No one can give you your freedom. You have to take it with your own hands."*
+### 💬 *"No one can give you your freedom. You have to take it with your own hands."*
 
 </div>
