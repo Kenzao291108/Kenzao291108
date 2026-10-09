@@ -58,10 +58,7 @@ focus:     Machine Learning · Web Development · AI Agents
 <div align="center"><img src="https://raw.githubusercontent.com/Kenzao291108/Kenzao291108/main/assets/h-stats.png" alt="Stats"/></div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kenzao291108&show_icons=true&hide_border=false&border_color=8A5A2B&border_radius=0&bg_color=2B1D14&title_color=FFCC4D&text_color=E8D5A9&icon_color=7CC576" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenzao291108&layout=compact&hide_border=false&border_color=8A5A2B&border_radius=0&bg_color=2B1D14&title_color=FFCC4D&text_color=E8D5A9" alt="Top Languages" height="180"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Kenzao291108&hide_border=false&border=8A5A2B&border_radius=0&background=2B1D14&stroke=8A5A2B&ring=F4A93C&fire=D94F4F&currStreakNum=FFCC4D&currStreakLabel=F4A93C&sideNums=E8D5A9&sideLabels=E8D5A9&dates=8A5A2B" alt="GitHub Streak"/>
+  <img src="https://github.com/Kenzao291108/Kenzao291108/raw/cards/journey.png" alt="Pixel GitHub Stats" width="100%"/>
 </div>
 
 ### 🌾 3D Contribution Farm
