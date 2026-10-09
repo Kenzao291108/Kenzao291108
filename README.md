@@ -1,12 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3F97F7&center=true&vCenter=true&width=560&lines=Hi+there%2C+I'm+Kenzao+%F0%9F%91%8B;Dzulfikar+Ibnu+Ilham+Pangestu;Machine+Learning+%26+Web+Developer;Always+building+something+cool" alt="Typing SVG" />
-
-<br/>
-
-<a href="mailto:ibnuilham265@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3F97F7&center=true&vCenter=true&width=560&lines=Hi+there%2C+I'm+Kenzao+%F0%9F%91%8B;Dzulfikar+Ibnu+Ilham+Pangestu;Agentic+AI+%26+Harness+Engineering;Always+building+something+cool" alt="Typing SVG" />
 
 </div>
 
@@ -25,7 +19,7 @@ name:      Dzulfikar Ibnu Ilham Pangestu
 alias:     Kenzao
 location:  Indonesia
 school:    SMK Negeri 2 Klaten
-focus:     Machine Learning · Web Development · AI Agents
+focus:     Agentic AI · Harness Engineering · Machine Learning
 ```
 
 ### 🛠️ Tech Stack
@@ -62,8 +56,6 @@ focus:     Machine Learning · Web Development · AI Agents
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenzao291108&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="180"/>
   <br/>
   <img src="https://streak-stats.demolab.com?user=Kenzao291108&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-  <br/>
-  <img src="https://github.com/Kenzao291108/Kenzao291108/raw/main/profile-3d-contrib/profile-gitblock.svg" alt="3D contribution blocks" width="100%"/>
 </div>
 
 ### 🐍 Contribution Snake
