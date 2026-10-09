@@ -1,0 +1,36 @@
+name: Generate Pixel Profile Cards
+
+on:
+  schedule:
+    - cron: "0 20 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: generate pixel profile cards
+        uses: LuciNyan/pixel-profile/action@main
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          outputs: |
+            dist/journey?username=Kenzao291108&theme=journey&dithering=true
+            dist/summer?username=Kenzao291108&theme=summer
+            dist/lax?username=Kenzao291108&theme=lax
+            dist/rainbow?username=Kenzao291108&theme=rainbow
+            dist/monica?username=Kenzao291108&theme=monica
+            dist/road-trip?username=Kenzao291108&theme=road_trip
+            dist/fuji?username=Kenzao291108&theme=fuji
+          crt_outputs: |
+            dist/crt?username=Kenzao291108&include_all_commits=true
+      - name: push cards to cards branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: cards
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
